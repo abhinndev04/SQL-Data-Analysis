@@ -1,4 +1,4 @@
-# Walmart Data Analysis
+# Walmart Data Analysis 
 Excited to share a recent data analysis project where I delved deep into Walmart's vast dataset using SQL! 🛒💻
 
 Key Highlights:
