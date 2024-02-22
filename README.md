@@ -6,7 +6,7 @@ The primary goal of this data analysis project was to extract actionable insight
 Excited to share a recent data analysis project where I delved deep into Walmart's vast dataset using SQL! 
 
 ## Data Understanding: 
-The data was taken from Kaggle and it was in CSV format
+The data was taken from Kaggle and it was in CSV format.
 
 ### Key Highlights:
 Comprehensive Analysis: Conducted a thorough data analysis on Walmart using SQL Workbench, exploring intricate details of the sales data.
